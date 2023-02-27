@@ -1,0 +1,7 @@
+attr==0.3.2
+attrs==18.2.0
+numpy==1.21.6
+ParmEd==3.4.3
+pyrosetta==2022.37+release.4c51f71
+scikit_learn==1.2.1
+scipy==1.7.3
