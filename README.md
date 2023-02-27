@@ -4,7 +4,7 @@ This is a protein structure prediction project using a many-objective evolutiona
 Pareto-dominance-based archive is proposed to save more potential conformations that can guide the search to more promising conformation areas.  
 
 <p align="center">
-<img src="framework.png" width="40%" height="40%" alt="PCM_framework" align="center"/>
+<img src="framework.png" width="75%" height="75%" alt="PCM_framework" align="center"/>
 </p> 
 
 ## Requirements
