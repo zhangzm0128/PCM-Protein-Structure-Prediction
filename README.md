@@ -23,6 +23,7 @@ python main.py --config ./config/config_PCM_1ZDD.json --energy_config ./config/e
 PCM-Protein-Structure-Prediction
     │── bin\                                   // External binary files folder
     │    │──params\                            // Directory contains parameter files used by binary files 
+    │    │   └──... ...                        
     │    │──analyze  
     │    │──calRWplus  
     │    │──protein 
