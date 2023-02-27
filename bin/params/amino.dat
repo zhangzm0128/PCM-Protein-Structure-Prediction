@@ -1,0 +1,169 @@
+#ATOM  Res  An  DupT Pol neib   
+ATOM   ALA  N    0   1   0
+ATOM   ALA  CA   0   0   1
+ATOM   ALA  C    0   0   1
+ATOM   ALA  O    0   1   1
+ATOM   ALA  CB   0   0  -1 CA
+ATOM   CYS  N    0   1   0
+ATOM   CYS  CA   0   0   1
+ATOM   CYS  C    0   0   1
+ATOM   CYS  O    0   1   1
+ATOM   CYS  CB   0   0  -1 CA
+ATOM   CYS  SG   0   1   1
+ATOM   ASP  N    0   1   0
+ATOM   ASP  CA   0   0   1
+ATOM   ASP  C    0   0   1
+ATOM   ASP  O    0   1   1
+ATOM   ASP  CB   0   0  -1 CA
+ATOM   ASP  CG   0   0   1
+ATOM   ASP  OD1  0   1   1
+ATOM   ASP  OD2  1   1  -1 CG
+ATOM   GLU  N    0   1   0
+ATOM   GLU  CA   0   0   1
+ATOM   GLU  C    0   0   1
+ATOM   GLU  O    0   1   1
+ATOM   GLU  CB   0   0  -1 CA
+ATOM   GLU  CG   0   0   1
+ATOM   GLU  CD   0   0   1
+ATOM   GLU  OE1  0   1   1
+ATOM   GLU  OE2  1   1  -1 CD
+ATOM   PHE  N    0   1   0
+ATOM   PHE  CA   0   0   1
+ATOM   PHE  C    0   0   1
+ATOM   PHE  O    0   1   1
+ATOM   PHE  CB   0   0  -1 CA
+ATOM   PHE  CG   0   0   1
+ATOM   PHE  CD1  0   0   1
+ATOM   PHE  CD2  1   0  -1 CG
+ATOM   PHE  CE1  0   0  -1 CD1
+ATOM   PHE  CE2  1   0  -1 CD2
+ATOM   PHE  CZ   0   0  -2 CE1 CE2
+ATOM   GLY  N    0   1   0
+ATOM   GLY  CA   0   0   1
+ATOM   GLY  C    0   0   1
+ATOM   GLY  O    0   1   1
+ATOM   HIS  N    0   1   0
+ATOM   HIS  CA   0   0   1
+ATOM   HIS  C    0   0   1
+ATOM   HIS  O    0   1   1
+ATOM   HIS  CB   0   0  -1 CA
+ATOM   HIS  CG   0   0   1
+ATOM   HIS  ND1  0   1   1
+ATOM   HIS  CD2  0   0  -1 CG
+ATOM   HIS  CE1  0   0  -1 ND1
+ATOM   HIS  NE2  0   1  -2 CD2 CE1
+ATOM   ILE  N    0   1   0
+ATOM   ILE  CA   0   0   1
+ATOM   ILE  C    0   0   1
+ATOM   ILE  O    0   1   1
+ATOM   ILE  CB   0   0  -1 CA
+ATOM   ILE  CG1  0   0   1
+ATOM   ILE  CG2  0   0  -1 CB
+ATOM   ILE  CD1  0   0  -2 CG1
+ATOM   LYS  N    0   1   0
+ATOM   LYS  CA   0   0   1
+ATOM   LYS  C    0   0   1
+ATOM   LYS  O    0   1   1
+ATOM   LYS  CB   0   0  -1 CA
+ATOM   LYS  CG   0   0   1
+ATOM   LYS  CD   0   0   1
+ATOM   LYS  CE   0   0   1
+ATOM   LYS  NZ   0   1   1
+ATOM   LEU  N    0   1   0
+ATOM   LEU  CA   0   0   1
+ATOM   LEU  C    0   0   1
+ATOM   LEU  O    0   1   1
+ATOM   LEU  CB   0   0  -1 CA
+ATOM   LEU  CG   0   0   1
+ATOM   LEU  CD1  0   0   1
+ATOM   LEU  CD2  1   0  -1 CG
+ATOM   MET  N    0   1   0
+ATOM   MET  CA   0   0   1
+ATOM   MET  C    0   0   1
+ATOM   MET  O    0   1   1
+ATOM   MET  CB   0   0  -1 CA
+ATOM   MET  CG   0   0   1
+ATOM   MET  SD   0   0   1
+ATOM   MET  CE   0   0   1
+ATOM   ASN  N    0   1   0
+ATOM   ASN  CA   0   0   1
+ATOM   ASN  C    0   0   1
+ATOM   ASN  O    0   1   1
+ATOM   ASN  CB   0   0  -1 CA
+ATOM   ASN  CG   0   0   1
+ATOM   ASN  OD1  0   1   1
+ATOM   ASN  ND2  0   1  -1 CG
+ATOM   PRO  N    0   0   0
+ATOM   PRO  CA   0   0   1
+ATOM   PRO  C    0   0   1
+ATOM   PRO  O    0   1   1
+ATOM   PRO  CB   0   0  -1 CA
+ATOM   PRO  CG   0   0   1
+ATOM   PRO  CD   0   0  -2 N CG
+ATOM   GLN  N    0   1   0
+ATOM   GLN  CA   0   0   1
+ATOM   GLN  C    0   0   1
+ATOM   GLN  O    0   1   1
+ATOM   GLN  CB   0   0  -1 CA
+ATOM   GLN  CG   0   0   1
+ATOM   GLN  CD   0   0   1
+ATOM   GLN  OE1  0   1   1
+ATOM   GLN  NE2  0   1  -1 CD
+ATOM   ARG  N    0   1   0
+ATOM   ARG  CA   0   0   1
+ATOM   ARG  C    0   0   1
+ATOM   ARG  O    0   1   1
+ATOM   ARG  CB   0   0  -1 CA
+ATOM   ARG  CG   0   0   1
+ATOM   ARG  CD   0   0   1
+ATOM   ARG  NE   0   1   1
+ATOM   ARG  CZ   0   0   1
+ATOM   ARG  NH1  0   1   1
+ATOM   ARG  NH2  1   1  -1 CZ
+ATOM   SER  N    0   1   0
+ATOM   SER  CA   0   0   1
+ATOM   SER  C    0   0   1
+ATOM   SER  O    0   1   1
+ATOM   SER  CB   0   0  -1 CA
+ATOM   SER  OG   0   1   1
+ATOM   THR  N    0   1   0
+ATOM   THR  CA   0   0   1
+ATOM   THR  C    0   0   1
+ATOM   THR  O    0   1   1
+ATOM   THR  CB   0   0  -1 CA
+ATOM   THR  OG1  0   1   1
+ATOM   THR  CG2  0   0  -1 CB
+ATOM   VAL  N    0   1   0
+ATOM   VAL  CA   0   0   1
+ATOM   VAL  C    0   0   1
+ATOM   VAL  O    0   1   1
+ATOM   VAL  CB   0   0  -1 CA
+ATOM   VAL  CG1  0   0   1
+ATOM   VAL  CG2  1   0  -1 CB
+ATOM   TRP  N    0   1   0
+ATOM   TRP  CA   0   0   1
+ATOM   TRP  C    0   0   1
+ATOM   TRP  O    0   1   1
+ATOM   TRP  CB   0   0  -1 CA
+ATOM   TRP  CG   0   0   1
+ATOM   TRP  CD1  0   0   1
+ATOM   TRP  CD2  0   0  -1 CG
+ATOM   TRP  NE1  0   1  -1 CD1
+ATOM   TRP  CE2  0   0  -2 NE1 CD2
+ATOM   TRP  CE3  0   0  -1 CD2
+ATOM   TRP  CZ2  0   0  -1 CE2
+ATOM   TRP  CZ3  0   0  -1 CE3
+ATOM   TRP  CH2  0   0  -2 CZ2 CZ3
+ATOM   TYR  N    0   1   0
+ATOM   TYR  CA   0   0   1
+ATOM   TYR  C    0   0   1
+ATOM   TYR  O    0   1   1
+ATOM   TYR  CB   0   0  -1 CA
+ATOM   TYR  CG   0   0   1
+ATOM   TYR  CD1  0   0   1
+ATOM   TYR  CD2  1   0  -1 CG
+ATOM   TYR  CE1  0   0  -1 CD1
+ATOM   TYR  CE2  1   0  -1 CD2
+ATOM   TYR  CZ   0   0  -2 CE1 CE2
+ATOM   TYR  OH   0   1   1
+END

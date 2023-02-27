@@ -1,0 +1,82 @@
+{
+    "general_params": {
+        "prefix": "",
+        "save_all": false,
+        "generate_xyz_bin_path": "bin/protein",
+        "generate_pdb_from_xyz_bin_path": "bin/xyzpdb",
+        "prm_path": "bin/params/charmm27.prm",
+        "charmm_prm": "bin/params/par_all22_prot.prm",
+        "charmm_top": "bin/params/top_all22_prot.rtf"
+    },
+
+    "objective0": {
+        "name": "bond",
+        "bin_path": "",
+        "suffix": "",
+        "param_path": "bin/params/charmm27.prm",
+        "objective_index": 0
+    },
+    "objective1": {
+        "name": "dDFIRE",
+        "bin_path": "bin/dDFIRE",
+        "suffix": "",
+        "param_path": "bin/params/",
+        "objective_index": 1
+    },
+    "objective2": {
+        "name": "Rosetta",
+        "bin_path": "",
+        "suffix": "",
+        "param_path": "",
+        "objective_index": 2
+    },
+    "objective3": {
+        "name": "RWplus",
+        "bin_path": "bin/calRWplus",
+        "suffix": "xyz",
+        "param_path": "bin/params/charmm27.prm",
+        "objective_index": 3
+    },
+    "objective_4": {
+        "name": "non_bond",
+        "bin_path": "bin/calRWplus",
+        "suffix": "xyz",
+        "param_path": "bin/params/charmm27.prm",
+        "objective_index": 4
+    },
+    "energy_params": {
+        "energy1": {
+            "name": "",
+            "param1": 0,
+            "param2": 0,
+            "param3": 0
+        },
+        "energy2": {
+            "name": "",
+            "param1": 0,
+            "param2": 0,
+            "param3": 0
+        }
+    },
+    "algo_params": {
+        "name": "MOEA",
+        "pop_size": 100,
+        "D": 30
+    },
+    "test_params": {
+        "test1": "AlphaFold",
+        "test2": "GLCDE",
+        "test3": "ProteinNet"
+    },
+    
+    "augmentation_params":{
+
+    },
+
+    "protein_shorthand": {
+        "ALA": "A", "PHE": "F", "CYS": "C", "SEC": "U", "ASP": "D", "ASN": "D",
+        "GLU": "E", "GLN": "Q", "GLY": "G", "HIS": "H", "LEU": "L", "ILE": "I",
+        "LYS": "K", "PYL": "O", "MET": "M", "PRO": "P", "ARG": "R", "SER": "S",
+        "THR": "T", "VAL": "V", "TRP": "W", "TYR": "Y"
+    }
+}
