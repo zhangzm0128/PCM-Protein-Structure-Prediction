@@ -2,8 +2,8 @@
 
 This is a protein structure prediction project using a many-objective evolutionary algorithm, namely PCM. In this study, protein structure prediction is treated as a many-objective optimization problem and four conflicting energy functions are used as different objectives to be optimized. A novel Pareto-dominance-archive and Coordinated-selection-strategy-based Many-objective-optimizer (PCM) is proposed to perform the conformation search. In it, convergence and diversity-based selection metrics are used to enable PCM to find near-native proteins with well-distributed energy values, while a
 Pareto-dominance-based archive is proposed to save more potential conformations that can guide the search to more promising conformation areas.  
-<img src="framework.png" width="40%" height="40%" alt="PCM_framework" align="center"/>
 
+<h3><img src="framework.png" width="40%" height="40%" alt="PCM_framework" align="center"/></h3>  
 
 ## Requirements
 
