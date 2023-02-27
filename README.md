@@ -1,13 +1,19 @@
 # PCM-Protein-Structure-Prediction
 
-This is a experimental protein structure prediction project using Many Objective Evolutionary 
-Algorithm.
+This is a protein structure prediction project using a many-objective evolutionary algorithm, namely PCM. In this study, protein structure prediction is treated as a many-objective optimization problem and four conflicting energy functions are used as different objectives to be optimized. A novel Pareto-dominance-archive and Coordinated-selection-strategy-based Many-objective-optimizer (PCM) is proposed to perform the conformation search. In it, convergence and diversity-based selection metrics are used to enable PCM to find near-native proteins with well-distributed energy values, while a
+Pareto-dominance-based archive is proposed to save more potential conformations that can guide the search to more promising conformation areas.  
+![avatar](framwork.png)
 
 ## Requirements
 
 * Python 3.6 or higher is required.
 * Ubuntu 16.04 or higher is required.
 * The details of python package is listed in [requirements.txt](./requirements.txt).
+## Usage
+A simple example for PCM predicting protein (ID: 1ZDD) with energy functions, bond, dDFIRE, Rosetta, and RWplus.
+```
+python main.py --config ./config/config_PCM_1ZDD.json --energy_config ./config/energy_config.json --protein_config ./config/protein_config.json
+```
 
 ## Project Structure
 ```
