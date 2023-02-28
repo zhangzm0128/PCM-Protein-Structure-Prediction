@@ -2,3 +2,4 @@
 *.dat linguist-language=Python
 *.rtf linguist-language=Python
 *.prm linguist-language=Python
+*.3 linguist-documentation
