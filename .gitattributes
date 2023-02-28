@@ -1,5 +1,1 @@
-*.seq linguist-language=Python
-*.dat linguist-language=Python
-*.rtf linguist-language=Python
-*.prm linguist-language=Python
 *.1 linguist-language=Python
