@@ -61,5 +61,8 @@ Z. Zhang, S. Gao, Z. Lei, R. Xiong and J. Cheng, "Pareto Dominance Archive and C
   journal={IEEE/ACM Transactions on Computational Biology and Bioinformatics}, 
   title={Pareto Dominance Archive and Coordinated Selection Strategy-Based Many-Objective Optimizer for Protein Structure Prediction}, 
   year={2023},
+  volume={20},
+  number={3},
+  pages={2328-2340},
   doi={10.1109/TCBB.2023.3247025}}
 }
