@@ -1,4 +1,9 @@
-# PCM-Protein-Structure-Prediction
+# PCM
+### [Paper](https://ieeexplore.ieee.org/abstract/document/10049519) | [Project Page](https://github.com/zhangzm0128/PCM-Protein-Structure-Prediction) 
+
+> PCM: Pareto Dominance Archive and Coordinated Selection Strategy-Based Many-Objective Optimizer for Protein Structure Prediction
+
+> [Zhiming Zhang](https://zhangzm0128.github.io/), [Shangce Gao](https://toyamaailab.github.io/), Zhenyu Lei, Runqun Xiong, Jiujun Cheng
 
 This is a protein structure prediction project using a many-objective evolutionary algorithm, namely PCM. In this study, protein structure prediction is treated as a many-objective optimization problem and four conflicting energy functions are used as different objectives to be optimized. A novel Pareto-dominance-archive and Coordinated-selection-strategy-based Many-objective-optimizer (PCM) is proposed to perform the conformation search. In it, convergence and diversity-based selection metrics are used to enable PCM to find near-native proteins with well-distributed energy values, while a
 Pareto-dominance-based archive is proposed to save more potential conformations that can guide the search to more promising conformation areas.  
